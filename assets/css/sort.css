@@ -1,0 +1,18 @@
+body{
+    background-image: url(/assets/images/sortinghat.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+    color: white;
+    text-align: center;
+}   
+h1{
+    position: inherit;
+}#houses button{
+    width: 170px;
+    background-color: orange;
+    height: 80px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}

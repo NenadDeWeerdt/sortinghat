@@ -1,0 +1,28 @@
+body{
+    background-image: url(/assets/images/sortinghat.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+    color: white;
+}
+body h1{text-align: center;}
+#actions a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    width: 440px;
+}
+#actions{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 500px;
+}
+#actions button{
+    background-color: orange;
+    font-size: 20px;
+    margin-top: 0px;   
+    width: 220px;
+    height: 70px;
+}
